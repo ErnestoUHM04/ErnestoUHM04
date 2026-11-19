@@ -14,7 +14,7 @@ I’m interested in building intelligent systems, developing software solutions,
 
 ⸻
 
-🛠️ Tech Stack
+**Tech Stack**
 
 Programming Languages
 
@@ -30,16 +30,16 @@ Git · GitHub · Docker · Linux · PostgreSQL · REST APIs
 
 ⸻
 
-🚀 Featured Projects
+**Featured Projects**
 
 Coming soon! Check out my repositories to explore my work.
 
 ⸻
 
-🌐 Connect with Me
+Connect with Me
 
-* ⁠LinkedIn
-* ⁠GitHub
+* ⁠LinkedIn: https://www.linkedin.com/in/ernesto-ulises-hernandez
+* Email: netito.uli@icloud.com
 
 
 <!--
