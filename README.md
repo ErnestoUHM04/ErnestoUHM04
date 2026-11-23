@@ -1,7 +1,5 @@
 ## Hello there, I'm Ernesto Ulises 👋
 
-Pronouns: he/him
-
 AI Engineering Student | Machine Learning | Software Development
 
 I’m an Artificial Intelligence Engineering student at the Escuela Superior de Cómputo (ESCOM) - IPN in Mexico.
